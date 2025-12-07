@@ -1,0 +1,4 @@
+.nav-link.active {
+    color: #92400e; /* text-amber-800 */
+    font-weight: 600; /* semibold */
+}
